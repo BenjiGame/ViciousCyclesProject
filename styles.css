@@ -1,6 +1,5 @@
 {
     margin: 0px;
-    padding: 0px;
     
 
 }
@@ -21,7 +20,7 @@ nav{
 body{
    width: 100%;
    height: auto;
-   overflow: hidden;
+   overflow: scroll;
     font-family: 'Poppins', sans-serif;
     background-color:rgb(255, 227, 200)
     letter-spacing: 5px;
@@ -70,4 +69,7 @@ body{
 }
 .brands{
     margin-left: 20%;
+}
+.p1{
+    margin-left: 35%;
 }
